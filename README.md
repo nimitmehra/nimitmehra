@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nimitmehra"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nimitmehra-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="nimitmehra@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello@toroIQ.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="nimitmehra@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nimitmehra@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://twitter.com/NimitMehra"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@NimitMehra-1DA1F2?style=for-the-badge&logo=twitter"></a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=nimitmehra&style=for-the-badge"/>
 </p>
